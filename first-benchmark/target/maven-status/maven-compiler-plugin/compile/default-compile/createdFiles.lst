@@ -1,0 +1,17 @@
+META-INF/CompilerHints
+com/brooks/generated/User_jmhType.class
+com/brooks/generated/User_UserState_jmhType.class
+com/brooks/generated/User_writePotentially_jmhTest.class
+com/brooks/MichaelScottQueue.class
+com/brooks/generated/User_execute_jmhTest.class
+com/brooks/generated/User_UserState_jmhType_B3.class
+com/brooks/generated/User_jmhType_B1.class
+com/brooks/Node.class
+com/brooks/generated/User_jmhType_B3.class
+com/brooks/generated/User_UserState_jmhType_B2.class
+com/brooks/generated/User_jmhType_B2.class
+com/brooks/generated/User_readFeed_jmhTest.class
+META-INF/BenchmarkList
+com/brooks/generated/User_UserState_jmhType_B1.class
+com/brooks/User$UserState.class
+com/brooks/User.class

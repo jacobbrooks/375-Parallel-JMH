@@ -1,0 +1,3 @@
+JMH S 15 com.brooks.User S 50 com.brooks.generated.User_writePotentially_jmhTest S 16 writePotentially S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 15 com.brooks.User S 42 com.brooks.generated.User_readFeed_jmhTest S 8 readFeed S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 15 com.brooks.User S 41 com.brooks.generated.User_execute_jmhTest S 7 execute S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
